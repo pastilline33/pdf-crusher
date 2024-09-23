@@ -8,4 +8,4 @@ On Windows, download and install from the Ghostscript website
 usage:
 python compressor-balanced.py mypdf.pdf
 
-will save as compressed-mypdf.pdf in same directory
+will save as compressed_mypdf.pdf in same directory
